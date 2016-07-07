@@ -4,15 +4,8 @@
         <description><![CDATA[Jeff On RENT]]></description>
         <link>https://thegrid.ai/jeff-on-rent/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 20:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 20:41:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeff-on-rent/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/189f4c2a-edcf-4950-b56b-195a51b632cc.jpg">]]></description>
-            <link>https://thegrid.ai/jeff-on-rent/693d7a6a-771b-4be5-9b80-acdb4cc922d1/index.html</link>
-            <guid isPermaLink="false">693d7a6a-771b-4be5-9b80-acdb4cc922d1</guid>
-            <pubDate>Thu, 07 Jul 2016 20:41:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6858efb2-4b4c-431f-a5bb-10617e10ecf7.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/jeff-on-rent/9f51eb1b-ab06-4485-b1d3-4cd90e01a48f/index.html</link>
             <guid isPermaLink="false">9f51eb1b-ab06-4485-b1d3-4cd90e01a48f</guid>
             <pubDate>Thu, 07 Jul 2016 20:36:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RENT 20th Anniversary Tour]]></title>
+            <description><![CDATA[<article><h1>RENT 20th Anniversary Tour</h1><p>Uploaded by DPACLive on 2016-03-02.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4f3201a9669d4774bf3075fd3887324/croprotate.jpg?cropheight=280&cropwidth=480&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FP9HpBmUKXqE%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=P9HpBmUKXqE</link>
+            <guid isPermaLink="false">46114778-3cee-4337-a85c-32835adb5fae</guid>
+            <pubDate>Thu, 07 Jul 2016 20:36:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
