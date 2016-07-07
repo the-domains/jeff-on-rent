@@ -8,6 +8,27 @@
         <atom:link href="https://thegrid.ai/jeff-on-rent/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/189f4c2a-edcf-4950-b56b-195a51b632cc.jpg">]]></description>
+            <link>https://thegrid.ai/jeff-on-rent/693d7a6a-771b-4be5-9b80-acdb4cc922d1/index.html</link>
+            <guid isPermaLink="false">693d7a6a-771b-4be5-9b80-acdb4cc922d1</guid>
+            <pubDate>Thu, 07 Jul 2016 20:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6858efb2-4b4c-431f-a5bb-10617e10ecf7.jpg">]]></description>
+            <link>https://thegrid.ai/jeff-on-rent/5acc845f-fdb6-4d51-b731-9f2a76ac1f17/index.html</link>
+            <guid isPermaLink="false">5acc845f-fdb6-4d51-b731-9f2a76ac1f17</guid>
+            <pubDate>Thu, 07 Jul 2016 20:41:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8398422-6783-4c49-85ba-8ab5fbcbb8e3.jpg">]]></description>
+            <link>https://thegrid.ai/jeff-on-rent/9df31547-62a0-4ac6-8eba-b3dbc0857439/index.html</link>
+            <guid isPermaLink="false">9df31547-62a0-4ac6-8eba-b3dbc0857439</guid>
+            <pubDate>Thu, 07 Jul 2016 20:41:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28d1a78e-35c0-4bff-84b6-277e28caa15d.jpg">]]></description>
             <link>https://thegrid.ai/jeff-on-rent/713a938b-d3e6-4ed8-b6d2-d69099319d95/index.html</link>
             <guid isPermaLink="false">713a938b-d3e6-4ed8-b6d2-d69099319d95</guid>
@@ -54,20 +75,6 @@
             <link>https://thegrid.ai/jeff-on-rent/9f51eb1b-ab06-4485-b1d3-4cd90e01a48f/index.html</link>
             <guid isPermaLink="false">9f51eb1b-ab06-4485-b1d3-4cd90e01a48f</guid>
             <pubDate>Thu, 07 Jul 2016 20:36:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RENT 20th Anniversary Tour]]></title>
-            <description><![CDATA[<article><h1>RENT 20th Anniversary Tour</h1><p>Uploaded by DPACLive on 2016-03-02.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4f3201a9669d4774bf3075fd3887324/croprotate.jpg?cropheight=280&cropwidth=480&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FP9HpBmUKXqE%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=P9HpBmUKXqE</link>
-            <guid isPermaLink="false">46114778-3cee-4337-a85c-32835adb5fae</guid>
-            <pubDate>Thu, 07 Jul 2016 20:36:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RENT 20th Anniversary Tour - Jeff On Tour]]></title>
-            <description><![CDATA[<article><h1>RENT 20th Anniversary Tour - Jeff On Tour</h1><p>Jeff On Tour with the 20th Anniversary tour of RENT I'm excited to announce that I will be playing drums for the upcoming RENT 20th Anniversary Tour! The tour will launch in mid-September and will be making stops from coast-to-coast in the US, and will be visiting Tokyo as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/05c4d7317d0308aefab8044f31fc8f94/noop.jpg?input=http%3A%2F%2Fjeffontour.com%2Fwp-content%2Fuploads%2F2016%2F06%2FRent-20-tour-edit.jpg"></article>]]></description>
-            <link>http://jeffontour.com/rent-20th-anniversary-tour/</link>
-            <guid isPermaLink="false">bf21307e-4349-4cbc-98a3-f6819f57f1e5</guid>
-            <pubDate>Thu, 07 Jul 2016 20:35:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
