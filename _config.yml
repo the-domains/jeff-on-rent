@@ -6,9 +6,13 @@ color:
   saturation: 0.23469880199991167
   rhythmicContrast: 0.8155767733696848
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 name: Jeff On RENT
+author:
+  name: Jeff Snider
+  email: sniderman@aol.com
+  url: 'http://jeffontour.com'
