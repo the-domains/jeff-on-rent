@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jeff On RENT]]></title>
+        <description><![CDATA[Jeff On RENT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jul 2016 20:35:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RENT 20th Anniversary Tour - Jeff On Tour]]></title>
+            <description><![CDATA[<article><h1>RENT 20th Anniversary Tour - Jeff On Tour</h1><p>Jeff On Tour with the 20th Anniversary tour of RENT I'm excited to announce that I will be playing drums for the upcoming RENT 20th Anniversary Tour! The tour will launch in mid-September and will be making stops from coast-to-coast in the US, and will be visiting Tokyo as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/05c4d7317d0308aefab8044f31fc8f94/noop.jpg?input=http%3A%2F%2Fjeffontour.com%2Fwp-content%2Fuploads%2F2016%2F06%2FRent-20-tour-edit.jpg"></article>]]></description>
+            <link>http://jeffontour.com/rent-20th-anniversary-tour/</link>
+            <guid isPermaLink="false">bf21307e-4349-4cbc-98a3-f6819f57f1e5</guid>
+            <pubDate>Thu, 07 Jul 2016 20:35:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
